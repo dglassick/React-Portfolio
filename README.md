@@ -1,3 +1,10 @@
+## React Portfolio
+# About
+This project consists of a general portfolio of my completed projects that was then made into a react application. You can visit the react application here: https://shrouded-sands-18925.herokuapp.com/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
