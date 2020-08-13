@@ -2,6 +2,24 @@
 # About
 This project consists of a general portfolio of my completed projects that was then made into a react application. You can visit the react application here: https://shrouded-sands-18925.herokuapp.com/
 
+# Screenshots of Application
+## Main Page
+Main page has links to my Github, LinkedIn, and also my Resume. Has a brief bio about me, and then links to some of my more detailed projects.
+
+![image](https://user-images.githubusercontent.com/59103609/90081748-04791900-dcc3-11ea-9e25-ff409f57b8f1.png)
+
+
+## Projects
+Projects page has projects that I've made using a variety of languages.
+
+![image](https://user-images.githubusercontent.com/59103609/90081764-135fcb80-dcc3-11ea-9a37-1a65789d7f46.png)
+
+
+## Contact Page
+Page where people can contact me if the choose too. 
+
+![image](https://user-images.githubusercontent.com/59103609/90081792-2377ab00-dcc3-11ea-999e-e33f14045fa4.png)
+
 
 # Before running
 Before running this application make sure to install the npm dependencies with "npm install".
